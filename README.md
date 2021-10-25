@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub (MODIFIED BY ÖMER TALHA DEMİRCİ, 150210711)
+# :wave: The Basics of GitHub (MODIFIED BY ÖMER TALHA DEMİRCİ, 150210711 at 11.14.01,25.10.2021)
 
 ## 🤓 Course overview and learning outcomes 
 
